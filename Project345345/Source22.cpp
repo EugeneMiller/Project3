@@ -3,6 +3,8 @@
 
 using namespace std;
 
+void func2(){}
+
 int main()
 {
     srand(time(0));
