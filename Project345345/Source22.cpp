@@ -3,6 +3,10 @@
 
 using namespace std;
 
+int f1() {
+    return 0;
+}
+
 int main()
 {
     srand(time(0));
