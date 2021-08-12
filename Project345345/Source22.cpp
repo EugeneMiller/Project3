@@ -3,6 +3,8 @@
 
 using namespace std;
 
+void func2(){}
+
 int f1() {
     return 0;
 }
